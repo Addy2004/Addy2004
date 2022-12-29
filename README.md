@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aaditya Singh</h1>
+<h1 align="center">Hi 👋, I'm Addy</h1>
 <h3 align="center">Professional Coding Shenanigans Master</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=addy2004&label=Profile%20views&color=0e75b6&style=flat" alt="addy2004" /> </p>
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **web development**
+- 🔭 I’m currently working on **[REDACTED]**
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **[REDACTED]**
 
-- 👯 I’m looking to collaborate on **youtube**
+- 👯 I’m looking to collaborate on **[REDACTED]**
 
-- 💬 Ask me about **myself**
+- 💬 Ask me about **[REDACTED]**
 
 - 📫 How to reach me **singhaadi2004@gmail.com**
 
