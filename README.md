@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **[REDACTED]**
 
-- 📫 How to reach me **singhaadi2004@gmail.com**
+- 📫 How to reach me **addy #1072**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
